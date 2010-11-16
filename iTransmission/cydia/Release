@@ -1,0 +1,9 @@
+Origin: iTransmission's repository
+Label: iTransmission
+Suite: stable
+Version: 0.9
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iTransmission's repository
+
